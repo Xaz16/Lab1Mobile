@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_margin">32dp</dimen>
+    <dimen name="card_padding">32dp</dimen>
+    <dimen name="spacing_small">12dp</dimen>
+    <dimen name="spacing_medium">24dp</dimen>
+    <dimen name="spacing_large">40dp</dimen>
+    <dimen name="avatar_size">260dp</dimen>
+    <dimen name="text_title">48sp</dimen>
+    <dimen name="text_subtitle">34sp</dimen>
+    <dimen name="text_body">28sp</dimen>
+</resources>
